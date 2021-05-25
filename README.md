@@ -5,7 +5,7 @@ QFC2 is a game based on the fact that you ran out of cheese and going on a weird
 ## How to download and install
 There are a few ways to download
 
-1. Go to the [Gamejolt](https://gamejolt.com/games/TheQuestForCheese2) page and download it
+1. Go to the [Gamejolt](https://gamejolt.com/games/TheQuestForCheese2/537370) page and download it
 
 2. Download the game from this GitHub, and run the Install.exe
 
