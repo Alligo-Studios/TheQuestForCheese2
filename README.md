@@ -1,6 +1,6 @@
 # The Quest For Cheese 2
 
-QFC2 is a game based on the fact that you ran out of cheese and going on a weird adventure to get some more cheese for you sandwitch. The game is running on **Visual Studio Code**. According to my friends they just say, "*Basicly your own game engine*". 
+QFC2 is a game based on the fact that you ran out of cheese and going on a weird adventure to get some more cheese for you sandwitch.
 
 ## How to download and install
 There are a few ways to download
