@@ -10,3 +10,7 @@ There are a few ways to download
 2. Download the game from this GitHub, and run the Install.exe
 
 3. Get the [Game Launcher](https://github.com/Alligo-Studios/TheQuestForCheese2-Installer)(Only available for linux for now)
+
+## Other
+
+This uses the 
