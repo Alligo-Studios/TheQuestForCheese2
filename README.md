@@ -13,4 +13,4 @@ There are a few ways to download
 
 ## Other
 
-This uses the 
+This uses the Apache License 2.0, If you do make any modifications please give me credit but not required
