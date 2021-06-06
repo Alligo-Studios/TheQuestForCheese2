@@ -1,8 +1,8 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# The Quest For Cheese 2
+# The Adventure For Cheese 2
 
-QFC2 is a game based on the fact that you ran out of cheese and going on a weird adventure to get some more cheese for you sandwitch.
+AFC2 is a game based on the fact that you ran out of cheese and going on a weird adventure to get some more cheese for you sandwitch.
 
 ## How to download and install
 There are a few ways to download
